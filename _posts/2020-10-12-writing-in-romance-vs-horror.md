@@ -23,4 +23,20 @@ At first glance, the typography used to advertise and promote the movie, and to 
 
 https://www.whatfontis.com/Largo-SB-Light-OT.font
 
+
+
 When comparing the typography used in The Notebook, a romance film, to that used in a film in the horror genre, such as The Exorcist, the many differences in style choices are instantly recognizable. The film poster for the Exorcist uses the typography choice named "Neo Argonaut 2", which is relatively high in contrast, and has a lot of serifs on the letters, such as on the "T".
+
+![](../uploads/horror-pic.jpg "The Exorcist Original Film Poster")
+
+https://www.imdb.com/title/tt0070047/
+
+
+
+When analysing the style of font, it is easy to see how the typography choice instantly puts the audience on edge. Being rather thin and quite tall, we aren't given much feeling of comfort or security regarding the type of film that is being advertised, putting the audience immediately on the foot that the film is full of uneasiness. When looking closer at the font, the serifs add a feeling of threat to the film, with the pointy edges almost highlighting a sense of danger due to their sharpness and shape. 
+
+![The Exorcist Font](https://fontmeme.com/images/set-in-weiss-titling-font.png)https://fontmeme.com/the-exorcist-font/
+
+
+
+When comparing the 2 very different types of font used in the 2 different genre's, it is unmistakeably clear to see how a specific choice of typography can reflect the mood and tone of the film, without the audience even needing to see the imagery on the poster. This can clearly be seen by the relaxing, easy on the eye font used to advertise The Notebook, in comparison to The Exorcist, whose sharp and jarring typography choices automatically created a sense of distrust and threat about the film.
