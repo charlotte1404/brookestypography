@@ -6,6 +6,6 @@ header_feature_image: ../uploads/typography-on-the-big-screen.png
 bannerheight: 100vh
 logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
-gridlayout: false
+gridlayout: true
 fixednavbar: false
 upzoom: true
