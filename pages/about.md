@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
+subtitle: Get To Know Me
 permalink: /about/
-date: 2020-06-29T15:36:12.231Z
-header_feature_image: /uploads/log.jpg
+date: 2020-09-10T15:36:00.000Z
+header_feature_image: ""
 published: true
-subtitle: All about me and my life
 tags: null
 description: null
-show: false
+show: true
 ---
 
 This page is where you write something about yourself. You can add pictures so that people know where you come from or where you live.
