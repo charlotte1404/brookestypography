@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Writing in Romance Vs Horror
-date: 2020-10-12T18:41:00.000Z
+date: 2020-10-09T18:41:00.000Z
 header_feature_image: ../uploads/blog-2-pic.jpg
 comments: true
 ---
