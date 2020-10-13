@@ -3,7 +3,7 @@ description: A website for my blogs
 header_text: Typography On The Big Screen
 footer_text: Copyright 2020 Charlotte Pollard
 header_feature_image: ../uploads/typography-on-the-big-screen.png
-bannerheight: 100vh
+bannerheight: 20vmax
 logo: ../uploads/logo.png
 favicon: /uploads/favicon.ico
 gridlayout: true
