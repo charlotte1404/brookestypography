@@ -37,7 +37,7 @@ This type of typography has the effect on the audience of making the film appear
 
 This is shown by the slightly jagged edges of the lettering, and the broken up, fractured letters not being cohesive, signifying the idea that the film is of a quick pace nature, and contains threat and danger. This example is very significant when it comes to looking at how a certain type of typography can instantly give away themes and the genre of the film to the audience, without them even needing to watch the movie.
 
-![007 SPECTRE FONT - forum | dafont.com](https://www.dafont.com/forum/attach/orig/4/4/448922.jpg)
+![](https://www.dafont.com/forum/attach/orig/4/4/448922.jpg)
 
 https://www.dafont.com/forum/read/194925/007-spectre-font
 
