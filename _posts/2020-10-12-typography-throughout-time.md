@@ -17,8 +17,6 @@ As seen in the example below of The Sound of Music typography, the font appears 
 
 
 
-
-
 **Typography in the Present Day**
 
 However, when comparing the typography to a film from the present day, such as one of James bond's films, it is immediately obvious that there are several differences between the two era's typography's, and this allows us to explore the way in which typography has developed and changed over the years. As seen in the examples below, the typography choices for the Spectre film are very modern, almost appearing as if they have been edited and digitally constructed on a computer. The exact font is called "X". This type of typogrphy has the effect of .........
