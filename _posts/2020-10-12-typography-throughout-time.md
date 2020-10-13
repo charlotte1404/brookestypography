@@ -11,11 +11,11 @@ In the last 60 years, from the premiere of the iconic Sound of Music, to the mor
 
 http://annyas.com/screenshots/updates/breakfast-at-tiffanys-1961-movie-typography/
 
-When looking at film posters and the opening scenes from films produced in the late 60's, such as Breakfast at Tiffany's, it is clear to see how a very relaxed, handwritten and welcoming typography was used back in the time period. However, when comparing this font choice to more recent films, the typography in the more modern ones, such as the 007 James Bond movie, they often appears more processed and manufactured, unlike the authentic, traditional style from films in the 60's.
+When looking at film posters and the opening scenes from films produced in the late 60's, such as Breakfast at Tiffany's, it is clear to see how a very relaxed, handwritten and welcoming typography was used back in the time period. However, when comparing this font choice to more recent films, the typography in the more modern ones, such as the 007 James Bond movie, they often appear more processed and manufactured, unlike the authentic, traditional style from films in the 60's.
 
 **Typography in the 1960's**
 
-As seen in the example below of The Sound of Music typography, the font appears very genuine and handwritten. The exact font used is called " Carlisle Italic". 
+As seen in the example below of The Sound of Music typography, the font appears very genuine and handwritten. The exact font that used is called " Carlisle Italic". 
 
 ![](../uploads/music-pic.jpg "The Sound of Music Poster")
 
