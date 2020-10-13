@@ -4,7 +4,7 @@ title: About
 subtitle: Get To Know Me
 permalink: /about/
 date: 2020-09-10T15:36:00.000Z
-header_feature_image: ""
+header_feature_image: ../uploads/old-pic.jpg
 published: true
 tags: null
 description: null
