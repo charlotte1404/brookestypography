@@ -16,7 +16,13 @@ As a student interested in the media, television and presenting, I have always h
 
 https://www.townandcountrymag.com/leisure/arts-and-culture/g18753561/best-classic-movies/
 
-![Why Love Actually is not the heartwarming romcom you're remembering | The  Independent | The Independent](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSLM2PLqotNgNOGiF6zcvcn7s50XdD7V0g9Og&usqp=CAU)
+![Why Love Actually is not the heartwarming romcom you're remembering | The  Independent | The Independent]()
+
+
+
+![Why Love Actually is not the heartwarming romcom you're remembering | The  Independent | The Independent](https://static.independent.co.uk/s3fs-public/thumbnails/image/2017/03/22/16/love-actually-ejiofor.jpg)
+
+
 
 https://www.independent.co.uk/arts-entertainment/films/features/love-actually-richard-curtis-comic-relief-keira-knightley-a7643801.html
 
