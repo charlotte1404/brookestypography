@@ -5,7 +5,7 @@ footer_text: Copyright 2020 Charlotte Pollard
 header_feature_image: ../uploads/cinema-1.jpg
 bannerheight: 20vmax
 logo: ../uploads/logo.png
-favicon: /uploads/favicon.ico
+favicon: ../uploads/fabi-pic.jpg
 gridlayout: true
 fixednavbar: false
 upzoom: true
