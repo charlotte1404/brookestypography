@@ -1,0 +1,223 @@
+/* ---- General Styles ---- */
+body {
+	margin: 0px;
+	text-align: center;
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	font-weight: 400;
+}
+
+/* ---- Introduction Section ---- */
+.introduction_section {
+	height: 450px;
+	width: 100%;
+	background-image: url(C:/Users/charl/OneDrive/Documents/background.jpeg1.jpg);
+	background-size: cover;
+}
+
+/* Profile Picture */
+.profile_picture_square {
+	padding-top: 110px;
+}
+
+.profile_picture {
+	background-image: url("C:/Users/charl/OneDrive/Desktop/me.JPG");
+	<image src =
+	background-position: center;
+	width: 160px;
+	height: 160px;
+	border: white 2.5px solid;
+	border-radius: 65%;
+	background-size: 100%;
+
+	margin-left: auto;
+}
+
+/* Hello text */
+.hello_title {
+	color: black;
+	text-align: right;
+	font-size: 42px;
+	margin-top: 10px;
+	margin-bottom: 0px;
+}
+
+
+
+
+.hello_subtitle {
+	color: black;
+	text-align: right;
+	font-size: 19px;
+	margin-top: 15px;
+}
+
+/* Social Icons */
+.social_icon {
+	margin: 5px;
+}
+
+.social_icon img {
+	width: 30px;
+}
+
+.social_icon:hover {
+	opacity: 0.5;
+}
+
+
+/* ---- Few Things Banner ---- */
+.few_things_banner {
+	background-color: #000000;
+}
+
+.few_things_text {
+	color: white;
+	font-size: 46px;
+	text-align: center;
+	margin: 0;
+	padding: 15px;
+}
+
+
+* {
+	box-sizing: border-box;
+}
+
+.column {
+	float: left;
+	width: 33.33%;
+	padding: 5px;
+}
+
+.row::after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+
+
+
+/* ---- Facts ---- */
+/* Main Text */
+.facts {
+	background-color: #808080;
+	padding-top: 1px;
+	padding-bottom: 1px;
+}
+
+.facts p { 	<p>Despite being 5'4, and appearing fragile and delicate most of the time, I am actually very sport obsessed, and enjoy running, going to the gym, and hockey. Before Covid put everyone's plans on hold, I was due to run the October 2020 Oxford Half Marathon to raise money for cancer awareness. Clicking on the cancer resarch logo picture above will take you to their page, where you can make a small donation or contribution to the charity! p }
+
+	text-align: left;
+	color: #FFFFFf
+	;
+	font-size: 30px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 1000px;
+	margin: 80px auto 80px auto;
+	padding: 0 20px 0 20px;
+}
+
+/* Text Highlight Colour */
+.highlight {
+	color: #000000;
+	font-weight: 500;
+}
+
+/* Fact Links */
+.fact_link {
+	color: #000000;
+	font-weight: 500;
+	text-decoration: none;
+	border-bottom: 3px solid #000000;
+	padding: 0px 2px 0px 2px;
+}
+
+.fact_link:hover {
+	color: #000000;
+	background-color: ##000000;
+	padding: 0px 2px 0px 2px;
+}
+
+/* Fact Picture */
+.fact_image {
+	max-width: 5600px;
+	display: block;
+	margin: 20px auto 0 auto;
+}
+
+/* Public Figures List */
+.public_figures_list {
+	font-family: "Avenir", "Helvetica Neue", "Arial", sans-serif;
+	text-align: centre;
+	color: #515151;
+	font-size: 40px;
+	font-weight: 300;
+	list-style-type: none;
+
+	padding: 0;
+	margin: 0;
+	padding-top: 20px;
+	margin-top: -80px;
+}
+
+.public_figures_list li {
+	padding-bottom: 5px;
+	margin-bottom: 15px;
+}
+
+
+/* --- Tell Me About You --- */
+.tell_me_section {
+	background-color: #515151;
+	width: 100%;
+}
+
+/* 'You've learned a little about me.' */
+.learned_text {
+	text-align: centre;
+	color: black;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	max-width: 760px;
+	margin: 0 auto 0 auto;
+	padding: 80px 15px 15px;
+}
+
+/* 'Tell me about you' Box */
+.tell_me_link {
+	text-align: center;
+	color: white;
+	font-size: 40px;
+	font-weight: 300;
+	line-height: 70px;
+
+	padding: 0px;
+	margin: auto;
+	padding-bottom: 100px;
+	padding-top: 30px;
+}
+
+.tell_me_link a {
+	color: black;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
+
+.tell_me_link a:hover {
+	color: #515151;
+	background-color: black;
+	text-decoration: none;
+	border: white 3px solid;
+	border-radius: 5px;
+
+	padding: 10px 20px 10px 20px;
+}
