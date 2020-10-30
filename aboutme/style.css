@@ -10,7 +10,7 @@ body {
 .introduction_section {
 	height: 450px;
 	width: 100%;
-	background-image: url(C:/Users/charl/OneDrive/Documents/background.jpeg1.jpg);
+	background-image: url(img/background.JPG);
 	background-size: cover;
 }
 
@@ -20,7 +20,7 @@ body {
 }
 
 .profile_picture {
-	background-image: url("C:/Users/charl/OneDrive/Desktop/me.JPG");
+	background-image: url("me.JPG");
 	<image src =
 	background-position: center;
 	width: 160px;
