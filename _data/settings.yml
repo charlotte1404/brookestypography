@@ -9,3 +9,6 @@ favicon: ../uploads/fabi-pic.jpg
 gridlayout: true
 fixednavbar: false
 upzoom: true
+items:
+  - siteurl: aboutme/
+    name: Get to know me!
