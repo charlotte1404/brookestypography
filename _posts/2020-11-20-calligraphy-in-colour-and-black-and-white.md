@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Calligraphy in Colour Films and Black and White Films
-date: 2020-03-11T13:12:00.000Z
+date: 2020-11-08T13:12:00.000Z
 header_feature_image: ../uploads/new-blog-3.jpg
 comments: true
 ---
