@@ -13,7 +13,7 @@ The film A Streetcar Named Desire, which originally was a play, is a 1951 Americ
 
 ![](../uploads/thumbnail_img_5754.png "The typography used to promote the film noir A Street Car Named Desire")
 
-![](../uploads/street-car-named.jpg)
+![https://flixchatter.net/2016/04/25/april-2016-blindspot-a-streetcar-named-desire-1951/](../uploads/street-car-named.jpg)
 
 As seen in the poster, the font choice is very strong, with the serif's adding drama to the title, and therefore highlighting how the nature of the film will probably dramatic too.
 
@@ -25,13 +25,11 @@ In order to compare the differences in typography in the two different styles of
 
 Being a fun family classic, the 2008 film Mamma Mia, which also originated from a play, features lively and energetic typography choices. This can be seen in the film's front cover used for advertising, where the font has been based off of the serif typeface called "Bodoni Poster Compressed". The unique font is designed to look modern and upbeat, foreshadowing the themes and moods that run throughout the film. The thick, bubble style letters generate feelings of excitement and anticipation from the audience about what the film is going to be about. When compared to the font used in the black and white film example, the typography can be seen to portray the film in a more enthusiastic, dynamic way.
 
-![](../uploads/mamma-mia-font.png "Typography Styles in The Film Mamma Mia")
+![https://www.dafont.com/forum/read/391361/mamma-mia-here-we-go-again-logo-font](../uploads/mamma-mia-font.png "Typography Styles in The Film Mamma Mia")
 
 **The Holiday**
 
 It can also be useful to compare black and white film typography to a different genre, such as a romantic comedy. The 2006 film The Holiday is an American feel good comedy, starring Cameron Diaz and Jude Law, and again has a vibrant and upbeat typography style. The exact font used in the poster below is called "Bodoni SB Roman" and is  a commercial one. Again, it looks fresh, artistic and exciting when compared to the black and white dramatic film title, encouraging the audience to feel energised and positive about watching the movie.
-
-
 
 ![https://fontmeme.com/the-holiday-font/](../uploads/holiday-font.png "The Holiday Typography choice")
 
