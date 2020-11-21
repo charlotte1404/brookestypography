@@ -23,4 +23,4 @@ In order to compare the differences in typography in the two different styles of
 
 **Mamma Mia**
 
-Being a fun family classic, the 2008 film Mamma Mia, which also originated from a play, features lively and energetic typography choices. This can be seen in the film's front cover used for advertising, where the font has been based off of the serif typeface called "Bodoni Poster Compressed". The unique font is designed to look modern and upbeat,
+Being a fun family classic, the 2008 film Mamma Mia, which also originated from a play, features lively and energetic typography choices. This can be seen in the film's front cover used for advertising, where the font has been based off of the serif typeface called "Bodoni Poster Compressed". The unique font is designed to look modern and upbeat, foreshadowing the themes and moods that run throughout the film. When compared to the font used in the black and white film example, the typography can be seen to portray the film in a more enthusiastic, dynamic way.
