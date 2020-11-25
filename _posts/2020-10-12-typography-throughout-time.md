@@ -7,7 +7,7 @@ comments: true
 ---
 In the last 60 years, from the premiere of the iconic Sound of Music, to the more modern James Bond, typography styles in films have changed significantly. In the late 1960's, when both Breakfast At Tiffany's and the Sound of Music were produced, the hand-written style of typography, such as the font called "Engravers" was particularly popular. In the below article I am going to be analysing the way in which typography has changed since then, and the possible reasons behind this.
 
-![Breakfast at Tiffany's (1961) movie typography](https://lh3.googleusercontent.com/proxy/MNgJg4LssI4vWTP0pW6vCTCVuERF4xBc2Z1tS8m_7D0oJ0jmloj4R4rN8SevgPGkKovk0JsHq0mQujL3xx9qSAZgUrOYzcgewQHZdea_DEqSgYZtvM5daMrZB05JSOhfhqqAcnYEwEkN6JfKE7d8)
+![Breakfast at Tiffany's (1961) movie typography](../uploads/tiffany-pic.jpg)
 
 http://annyas.com/screenshots/updates/breakfast-at-tiffanys-1961-movie-typography/
 
