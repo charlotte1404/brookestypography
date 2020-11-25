@@ -1,11 +1,11 @@
 ---
 layout: post
 title: Typography Throughout Time
-date: 2020-12-11T23:59:00.000Z
+date: 2020-11-14T23:59:00.000Z
 header_feature_image: ../uploads/blog-1-pic.jpg
 comments: true
 ---
-In the last 60 years, from the premiere of the iconic Sound of Music, to the more modern James Bond, typography styles in films have changed significantly. In the late 1960's, when both Breakfast At Tiffany's and the Sound of Music were produced, the hand-written style of typography, such as the font called "Engravers" was particularly popular. In the below article I am going to be analysing the way in which typography has changed since then, and the possible reasons behind this.
+In the last 60 years, from the premiere of the iconic Sound of Music, to the more modern James Bond, typography styles in films have changed significantly. In the late 1960's, when both Breakfast At Tiffany's and the Sound of Music were produced, the hand-written style of typography, such as the font called "Engravers" was particularly popular. In the below article I am going to be analysing the way in which typography has changed since then, and the several possible reasons behind this.
 
 ![Breakfast at Tiffany's (1961) movie typography](../uploads/tiffany-pic.jpg)
 
