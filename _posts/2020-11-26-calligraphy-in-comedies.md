@@ -19,4 +19,8 @@ The exact typography used is called Ipkiss ZF by ZF Typography. The high contras
 
 **Meet The Fockers**
 
-Despite being from the same genre, the Adam Sandler comedy "Meet The Fockers" uses typography in very different ways when compared to The Mask.
+Despite being from the same genre, the Adam Sandler comedy "Meet The Fockers" uses typography in very different ways when compared to The Mask. An example of this can be seen in the film advertisement poster below.
+
+![https://www.imdb.com/title/tt0290002/](../uploads/meet-the-fockers.jpg "Meet The Fockers Typography")
+
+The name for this
