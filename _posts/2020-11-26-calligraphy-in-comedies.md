@@ -23,4 +23,8 @@ Despite being from the same genre, the Adam Sandler comedy "Meet The Fockers" us
 
 ![https://www.imdb.com/title/tt0290002/](../uploads/meet-the-fockers.jpg "Meet The Fockers Typography")
 
-The name for this
+The name for this exact type of font is called "Garamond Pro Roman". The theme of this particular font comes across as more relaxing and enticing, due to it's common low contrast style and wide letters. This offers the audience feelings of reassurance and familiarity, and therefore encouraging them to watch the film due to it's subconscious feelings of relatability. Unlike The Mask, which captures it's audiences attention through being unique and abstract, this typography appears comforting and down to earth, highlighting to the audience how the genre of the film is a fun and upbeat, family classic.
+
+**Comparison**
+
+Although both from the same genre, the movies The Mask and Meet The Fockers seek to use typography in extremely different ways. As evident in it's poster, The Mask uses eccentric fonts to convey themes of comedy and abstractness in the film, whereas Meet The Fockers uses a very common, familiar font, which gives the audience feelings of relatability and recognition with it being a family film.
